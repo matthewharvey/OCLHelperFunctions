@@ -1,0 +1,3 @@
+This repository simply stores handy functions for working with OpenCL. These will hopefully be useful for debugging and development.
+
+The test application that is built along with the object file prints out information about your OpenCL setup, and is useful in it's own right for bragging about how many execution units you have.
